@@ -6,7 +6,7 @@
 <ul>
   <li>👩🏻‍💻 Recently worked as a .NET Developer with 1+ year of expirience</li>
   <li>🔄 Exploring a career transition from development to software testing to combine my technical background with a passion for quality assurance</li>
-  <li>🧩 Enjoying the puzzle of ensuring feature work right — from server-side logic to user interface responses
+  <li>🧩 Enjoying the puzzle of ensuring feature work right – from server-side logic to user interface responses
   <li>🎯 Driven by the joy of building reliable, user-friendly software that just works</li>
   <li>🤝 Experienced in collaborative, large-team environments with a solid grasp of development and testing workflows</li>
   <li>🐱 Fun fact: I love y2k culture and kitties</li>
