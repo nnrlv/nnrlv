@@ -39,7 +39,9 @@
 <h2></h2>
 <h2>Test Artifacts</h2>
 <ul>
-  will be here in a couple of days
+  <li><a href="https://github.com/nnrlv/test-artifacts/tree/main/test-docs/checklists">Checklists</a></li>
+  <li><a href="https://github.com/nnrlv/test-artifacts/tree/main/test-docs/bug%20reports/jira">Bug report examples via Jira</a></li>
+  <li> more will be here in a couple of days
 </ul>
 
 <h2></h2>
